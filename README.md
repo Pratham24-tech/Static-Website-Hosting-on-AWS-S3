@@ -10,3 +10,7 @@ Key Highlights
 	•	Hosting a static website on S3
 	•	Configuring bucket policies for access control
 	•	Deploying the site via a public endpoint
+
+
+	link:
+	http://prathamb-static-website.s3-website.ap-south-1.amazonaws.com
